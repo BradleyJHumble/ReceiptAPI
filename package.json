@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/BradleyJHumble/ReceiptAPI#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "pdfkit": "^0.11.0"
   }
